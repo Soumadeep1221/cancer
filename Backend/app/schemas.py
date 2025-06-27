@@ -6,4 +6,4 @@ class PredictionInput(BaseModel):
 
 class PredictionOutput(BaseModel):
     prediction: int
-    probability: float
+    probability:float
